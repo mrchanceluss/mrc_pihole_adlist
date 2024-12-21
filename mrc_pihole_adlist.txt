@@ -1,8 +1,8 @@
 # a privately maintained list for the pihole. Not complete, not guaranteed.
 # created by mrchanceluss 2024-12-21
 # adblock format
-|| track.adform.net^
-|| googlesyndication.com^
-|| doubleclick.net^
-|| cloudfront.net^
+||track.adform.net^
+||googlesyndication.com^
+||doubleclick.net^
+||cloudfront.net^
 
