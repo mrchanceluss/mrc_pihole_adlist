@@ -3,4 +3,6 @@
 # adblock format
 || track.adform.net^
 || googlesyndication.com^
+|| doubleclick.net^
+|| cloudfront.net^
 
